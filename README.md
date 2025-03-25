@@ -3,9 +3,7 @@
 Must be completed in 4 weeks time
 
 ## Follow programming principles
-**Explore** - plan and brainstorm the idea
-**Generate** - development of the code
-**Evaluate** - run and debug the program
+**Explore** - plan and brainstorm the idea. **Generate** - development of the code. **Evaluate** - run and debug the program
 
 ## Updates
 The web application must update in real-time to ensure its usefulnesss and reliability
