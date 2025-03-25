@@ -1,6 +1,6 @@
 # NOTE TO THE DEVELOPERS
 ## Deadline
-Must be completed in 4 weeks tims
+Must be completed in 4 weeks time
 
 ## Follow programming principles
 **Explore** - plan and brainstorm the idea
