@@ -15,7 +15,7 @@ I'm a high school student with strong interests in computer science, systems pro
 - Focusing on external exams
 
 ## 📚 Goals
-- Study Computer Science at UQ (Programming Languages major)
+- Study Bachelor in Computer Science at UQ (Programming Languages major)
 - Pursue a Master's in Data Science
 - Build and publish my own projects
 
@@ -41,7 +41,7 @@ I'm a high school student with strong interests in computer science, systems pro
 - 专注于外部考试
 
 ## 📚 目标
-- 在昆士兰大学学习计算机科学（编程语言方向）
+- 在昆士兰大学念计算机学学士（编程语言方向）
 - 攻读数据科学硕士学位
 - 在 GitHub 上构建并发布自己的项目
 
